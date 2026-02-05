@@ -35,10 +35,10 @@ This repository does not:
 Repository Structure
 
 SCOPE.md       Scope and applicability boundaries
-SOURCES.md     Canonical authority references
+sources/       Canonical authority sources and references
 MODEL.md       Authority anchoring concepts
 MAPS/          Reference relationships
-CHANGELOG.md  Version history
+CHANGELOG.md   Version history
 
 Status
 

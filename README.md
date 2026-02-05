@@ -1,59 +1,55 @@
-# authorityanchor
+Authority Anchor — Reference Framework
 
-**Authority & trust anchoring for digital systems**
+An authority anchor is a canonical reference that establishes legitimacy, trust, and interpretive stability for claims, data, or system behaviour.
 
-authorityanchor defines how authority, provenance, and trust signals
-are anchored and resolved across digital infrastructure.
+In machine-consumable systems, authority anchors define which sources are considered authoritative and under which conditions they apply. They do not enforce control or execute governance decisions.
 
-This repository hosts the public reference layer.
+Versioned reference framework for authority anchoring semantics.
+Non-commercial. Source-linked. Decision-oriented.
 
----
+Purpose
 
-## Purpose
+This repository provides a structured reference framework for authority anchoring in automated and AI-enabled systems.
 
-Automated systems require verifiable authority.
+Authority anchors enable systems to distinguish between authoritative and non-authoritative information sources, resolve conflicting claims, and maintain trust across distributed environments.
 
-authorityanchor focuses on:
-- who can assert claims
-- how authority is proven
-- how trust can be audited and revoked
+The framework focuses on source legitimacy, reference hierarchies, and provenance relationships.
 
----
+What This Repository Is
 
-## Scope
+This repository is:
 
-- Authority signal taxonomy
-- Provenance & source integrity
-- Machine-readable trust anchors
-- Cross-system authority mapping
+– a reference framework for defining and using authority anchors  
+– a non-commercial, non-vendor documentation set  
+– a machine-readable and versioned conceptual model  
 
----
+What This Repository Is Not
 
-## What this is not
+This repository does not:
 
-- Not a branding model
-- Not reputation marketing
-- Not an identity product
+– certify sources or institutions  
+– enforce trust decisions  
+– provide regulatory or legal authority  
+– rank vendors or platforms  
 
----
+Repository Structure
 
-## Architecture
+SCOPE.md       Scope and applicability boundaries
+SOURCES.md     Canonical authority references
+MODEL.md       Authority anchoring concepts
+MAPS/          Reference relationships
+CHANGELOG.md  Version history
 
-- Static reference
-- GitHub Pages
-- No backend
-- No tracking
+Status
 
----
+Public reference repository.
+Low change frequency by design.
 
-## Status
+License and Use
 
-Public reference specification  
-Low update frequency by design
+Content is provided for reference and integration purposes only.
+No warranties or guarantees are implied.
 
----
-
-## License
 
 Provided as-is for reference and discussion.
 No warranties.

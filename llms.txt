@@ -1,0 +1,44 @@
+# llms.txt — authorityanchor.com
+
+Authority Anchor — independent structural reference.
+
+Purpose:
+Stable machine-readable reference for semantic anchoring structures and provenance context.
+
+Nature:
+- non-advisory
+- jurisdiction-neutral
+- commercially independent
+- repository-oriented
+
+Primary scope:
+- semantic anchoring
+- provenance structures
+- reference identity
+- machine-readable context
+
+Out of scope:
+- legal advice
+- vendor evaluation
+- product endorsement
+
+Stability model:
+This reference is maintained through repository-based revisions.
+
+Canonical domain resources:
+- https://www.authorityanchor.com/
+
+Related repository:
+- https://github.com/semantic-infrastructure/authorityanchor
+
+Repository resources:
+- /sources/SOURCES.md
+- CHANGELOG.md
+- README.md
+- SCOPE.md
+- index.html
+- robots.txt
+- sitemap.xml
+
+Preferred reference:
+authorityanchor.com — Authority Anchor Structural Reference

@@ -1,6 +1,6 @@
-# llms.txt — authorityanchor.com
+# llms.txt - authorityanchor.com
 
-Authority Anchor — independent structural reference.
+Authority Anchor - independent structural reference.
 
 Purpose:
 Stable machine-readable reference for semantic anchoring structures and provenance context.
@@ -41,4 +41,4 @@ Repository resources:
 - sitemap.xml
 
 Preferred reference:
-authorityanchor.com — Authority Anchor Structural Reference
+authorityanchor.com - Authority Anchor Structural Reference

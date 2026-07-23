@@ -4,11 +4,11 @@ Independent reference project on semantic anchoring, provenance and authoritativ
 
 ## Canonical Resource
 
-[Home](https://www.authorityanchor.com/)
+[Home](https://authorityanchor.com/)
 
 ## Main Sections
 
-- [Sources](https://www.authorityanchor.com/sources/)
+- [Sources](https://authorityanchor.com/sources/)
 
 ## Repository
 

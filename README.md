@@ -36,8 +36,6 @@ Repository Structure
 
 SCOPE.md       Scope and applicability boundaries
 sources/       Canonical authority sources and references
-MODEL.md       Authority anchoring concepts
-MAPS/          Reference relationships
 CHANGELOG.md   Version history
 
 Status
